@@ -1,0 +1,21 @@
+E:\ana_cris_2jds\Projeto 0831 - Universidade\Projeto 0831 - Universidade\bin\Debug\Projeto 0831 - Universidade.exe
+E:\ana_cris_2jds\Projeto 0831 - Universidade\Projeto 0831 - Universidade\bin\Debug\Projeto 0831 - Universidade.pdb
+E:\ana_cris_2jds\Projeto 0831 - Universidade\Projeto 0831 - Universidade\bin\Debug\Projeto 0831 - Universidade.xml
+E:\ana_cris_2jds\Projeto 0831 - Universidade\Projeto 0831 - Universidade\obj\x86\Debug\Projeto_0831___Universidade.Form1.resources
+E:\ana_cris_2jds\Projeto 0831 - Universidade\Projeto 0831 - Universidade\obj\x86\Debug\Projeto_0831___Universidade.Resources.resources
+E:\ana_cris_2jds\Projeto 0831 - Universidade\Projeto 0831 - Universidade\obj\x86\Debug\Projeto 0831 - Universidade.vbproj.GenerateResource.Cache
+E:\ana_cris_2jds\Projeto 0831 - Universidade\Projeto 0831 - Universidade\obj\x86\Debug\Projeto 0831 - Universidade.exe
+E:\ana_cris_2jds\Projeto 0831 - Universidade\Projeto 0831 - Universidade\obj\x86\Debug\Projeto 0831 - Universidade.xml
+E:\ana_cris_2jds\Projeto 0831 - Universidade\Projeto 0831 - Universidade\obj\x86\Debug\Projeto 0831 - Universidade.pdb
+G:\Projeto 0831 - Universidade\Projeto 0831 - Universidade\obj\x86\Debug\Projeto 0831 - Universidade.exe
+G:\Projeto 0831 - Universidade\Projeto 0831 - Universidade\obj\x86\Debug\Projeto 0831 - Universidade.xml
+G:\Projeto 0831 - Universidade\Projeto 0831 - Universidade\obj\x86\Debug\Projeto 0831 - Universidade.pdb
+G:\Projeto 0831 - Universidade\Projeto 0831 - Universidade\obj\x86\Debug\Projeto_0831___Universidade.Form1.resources
+G:\Projeto 0831 - Universidade\Projeto 0831 - Universidade\obj\x86\Debug\Projeto_0831___Universidade.Resources.resources
+G:\Projeto 0831 - Universidade\Projeto 0831 - Universidade\obj\x86\Debug\Projeto 0831 - Universidade.vbproj.GenerateResource.Cache
+G:\D.S\Projeto 0831 - Universidade\Projeto 0831 - Universidade\obj\x86\Debug\Projeto 0831 - Universidade.exe
+G:\D.S\Projeto 0831 - Universidade\Projeto 0831 - Universidade\obj\x86\Debug\Projeto 0831 - Universidade.xml
+G:\D.S\Projeto 0831 - Universidade\Projeto 0831 - Universidade\obj\x86\Debug\Projeto 0831 - Universidade.pdb
+G:\D.S\Projeto 0831 - Universidade\Projeto 0831 - Universidade\obj\x86\Debug\Projeto_0831___Universidade.Form1.resources
+G:\D.S\Projeto 0831 - Universidade\Projeto 0831 - Universidade\obj\x86\Debug\Projeto_0831___Universidade.Resources.resources
+G:\D.S\Projeto 0831 - Universidade\Projeto 0831 - Universidade\obj\x86\Debug\Projeto 0831 - Universidade.vbproj.GenerateResource.Cache
